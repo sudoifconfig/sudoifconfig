@@ -1,4 +1,18 @@
-### Hi there 👋
+### Welcome on my Github page, where I try to understand how internets works ...
+
+**Projects:** 
+
+-  Micro greenhouset using IoT -> [here](https://github.com/cierpowicz/Self-Watering-Plant): This project is a continuation of my engineering work. The goal of the project is to create a self-encompassing micro glasshouse.
+
+- "Stop or I'll shoot ... photo !!!" -> [here](https://github.com/cierpowicz/IoT-Home-): A home IP camera built on a Raspbery Pi. The camera can be "armed" and "disarmed" thanks to a simple solution ...
+
+- HackBox "Świrek" -> Multifunctional Device built on RaspberyPi. The device can, for example: scan local WiFi and then send a report to email. 
+
+**Hobby:**
+
+- Creating a series of "tutorials" on network topics -> : Linux, CCNA, Python, CISCO
+
+- Computer-assisted plant cultivation -> 
 
 <!--
 **sudoifconfig/sudoifconfig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
