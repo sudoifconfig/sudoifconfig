@@ -1,4 +1,3 @@
-### Welcome on my Github page, where I try to understand how internets works ...
 
 **Projects:** 
 
