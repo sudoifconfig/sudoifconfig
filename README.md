@@ -5,11 +5,11 @@
 
 - "Stop or I'll shoot ... photo !!!" -> [here](https://github.com/cierpowicz/IoT-Home-): A home IP camera built on a Raspbery Pi. The camera can be "armed" and "disarmed" thanks to a simple solution ...
 
-- HackBox "Świrek" -> Multifunctional Device built on RaspberyPi. The device can, for example: scan local WiFi and then send a report to email. 
+- HackBox "Świrek" ->[here](https://github.com/sudoifconfig/Python-Rasppbery-Hackbox) Multifunctional Device built on RaspberyPi. The device can, for example: scan local WiFi and then send a report to email. 
 
 **Hobby:**
 
-- Creating a series of "tutorials" on network topics -> : Linux, CCNA, Python, CISCO
+- Creating a series of "tutorials" on network topics -> : [Linux](https://github.com/sudoifconfig/Linux-Tutorials) , [CCNA](https://github.com/sudoifconfig/CCNA-Study-Guide), [Networking](https://github.com/sudoifconfig/Networking-Tutorials)
 
 - Computer-assisted plant cultivation -> 
 
